@@ -1,16 +1,23 @@
-### Hi there 👋
+![banner](https://img.freepik.com/premium-photo/abstract-background-moon-aesthetic-colors-generative-ai_888418-6847.jpg)
+<!---
+## I'm Lu! ♪
 
-<!--
-**Polichinell/Polichinell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Certified newbie.
+- HTML/CSS/JavaScript/React/NextJS/KMS
+- 
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+
+<summary>peepoo</summary>
+
+
+</details>
+
+```txt
+What is any of us doing really
+```
+
+######  AAAAAAAAAAAAAAAAAAAA
+--->
